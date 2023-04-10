@@ -1,5 +1,5 @@
 # digital-bas-relief
-Code for converting a depth map to a bas relief image
+Code for converting a depth image (or height map) to a bas relief image
 
 This is a simple implementation of the paper [Digital Bas-Relief from 3D Scenes](https://gfx.cs.princeton.edu/pubs/Weyrich_2007_DBF/relief.pdf) by Weyrich et al (SIGGRAPH 2007).
 
