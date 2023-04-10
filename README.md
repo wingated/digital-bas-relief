@@ -14,7 +14,7 @@ In the original paper, the authors frame the problem of converting a depth map t
 
 To recreate the images above, run:
 ```
-python ./main.py -i slc_depth.png -i slc_bas_relief.png                                                                            
+python ./main.py -i slc_depth.png -o slc_bas_relief.png                                                                            
 ```
 The code expects the depth map to be input as a single-channel, 8-bit grayscale image.  Large values (white) mean "far away", and small values (black) mean "close".
 
